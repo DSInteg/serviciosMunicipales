@@ -1,5 +1,5 @@
 <style type="text/css">
 body {
-	background-color: #F3C;
+	background-color: #BFC;
 }
 </style>
