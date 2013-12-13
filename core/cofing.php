@@ -1,0 +1,9 @@
+<?php
+	$DBHOST_ACCES='localhost';
+	$DBACCES='dbusuarios';
+	$DBACCES_USER='dsinteguseracces';
+	$DBACCES_PASSWORD='dsinteguseracces';	
+	$DBHOST_MAPS='localhost';
+	$DBMAPS='dbmaps';
+	$DBMAPS_USER='dsinteguseracces';
+?>

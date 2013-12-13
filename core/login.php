@@ -5,7 +5,7 @@
 
 // si existe usuario y contraseña entonces genera código 
 //si no esta como usuario entonces error
-
-$html = file_get_contents('../html/serviciosmunicipales.html');
+//require_once 'config.php';
+$html = file_get_contents('../html/serviciosmunicipalesft.html');
 echo $html;
 ?>
